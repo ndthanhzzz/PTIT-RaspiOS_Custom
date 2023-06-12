@@ -1,0 +1,4 @@
+xrdp
+curl
+gnupg
+apt-transport-https ca-certificates
